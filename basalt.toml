@@ -1,0 +1,20 @@
+[package]
+name = 'bash-error'
+slug = 'err'
+version = ''
+authors = ['Edwin Kofler <edwin@kofler.dev>']
+description = ''
+
+[run]
+dependencies = []
+sourceDirs = ['pkg/lib/public']
+builtinDirs = []
+binDirs = []
+completionDirs = []
+manDirs = []
+
+[run.shellEnvironment]
+
+[run.setOptions]
+
+[run.shoptOptions]
